@@ -1,2 +1,2 @@
 # hi-world
-study GitHub
+study GitHub Make yourself a better person.
